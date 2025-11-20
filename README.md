@@ -18,6 +18,8 @@
 #### - Lowest churn: under 30 and over 60
 #### This middle-age bracket often includes high-earning, high-balance customers with multiple product needs. They also have higher expectations for digital services and competitive offerings, making them more likely to switch providers if dissatisfied.
 
+![Churn Heatmap] (https://github.com/wingkeewinniekwok-max/Project-1/blob/main/ImageAge)
+
 ### 3. Geography is a major structural predictor
 #### Geography shows one of the strongest effects in the entire dataset:
 #### - Germany: highest churn
