@@ -26,6 +26,8 @@
 #### - France & Spain: significantly lower
 #### This suggests competitive dynamics, product fit, or customer experience challenges specific to the German market. This region presents a clear and immediate opportunity for targeted intervention.
 
+![Churn Heatmap](https://github.com/wingkeewinniekwok-max/Project-1/blob/main/ImageGeography)
+
 ### 4. Product holding reveals a “sweet spot”
 #### The number of products held has a non-linear effect:
 #### - Customers with 1 product churn more → weak engagement
